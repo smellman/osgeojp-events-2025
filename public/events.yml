@@ -1,0 +1,32 @@
+- name: "FOSS4G LT会 #002"
+  date: 2025-05-27
+  location:
+    longitude: 139.737936
+    latitude: 35.658581
+    address: 東京都千代田区紀尾井町1-3 東京ガーデンテラス紀尾井町 紀尾井タワー 17F
+    name:: Open Collaboration Hub LODGE (LINEヤフー)
+  homepage: https://osgeojp.connpass.com/event/350766/
+- name: Open Source Conference 2025 Nagoya
+  date: 2025-06-07
+  location:
+    longitude: 136.92993
+    latitude: 35.158615
+    address: 愛知県名古屋市中村区名駅南1丁目1-1 名駅南ビル
+    name: 中小企業振興会館 3階 第2ファッション展示場
+  homepage: https://event.ospn.jp/osc2025-nagoya/
+- name: Open Source Conference 2025 Shimane
+  date: 2025-06-21
+  location:
+    longitude: 133.062204
+    latitude: 35.464219
+    address: 島根県松江市朝日町478-18
+    name: 松江テルサ 1F テルサホール
+  homepage: https://event.ospn.jp/osc2025-shimane/
+- nameL: ジオ展
+  date: 2025-07-02
+  location:
+    longitude: 139.762214
+    latitude: 35.687416
+    address: 東京都千代田区大手町1-2-1 Otemachi One 3F
+    name: 大手町三井ホール
+  homepage: https://www.geoten.org/
